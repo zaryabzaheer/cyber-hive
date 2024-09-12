@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="Group_5468" data-name="Group 5468" transform="translate(-240 -6951)">
+    <g id="Rectangle_2439" data-name="Rectangle 2439" transform="translate(240 6951)" fill="none" stroke="#18d755" stroke-width="1">
+      <rect width="48" height="48" rx="8" stroke="none"/>
+      <rect x="0.5" y="0.5" width="47" height="47" rx="7.5" fill="none"/>
+    </g>
+    <g id="bug-svgrepo-com" transform="translate(252 6962)">
+      <path id="Path_14768" data-name="Path 14768" d="M19,15V11.938A3.938,3.938,0,0,0,15.063,8H8.938A3.938,3.938,0,0,0,5,11.938V15a7,7,0,0,0,14,0Z" fill="none" stroke="#18d755" stroke-width="1.5"/>
+      <path id="Path_14769" data-name="Path 14769" d="M16.5,8.5v-1a4.5,4.5,0,0,0-9,0v1" fill="none" stroke="#18d755" stroke-width="1.5"/>
+      <path id="Path_14770" data-name="Path 14770" d="M19,14h3" fill="none" stroke="#18d755" stroke-linecap="round" stroke-width="1.5"/>
+      <path id="Path_14771" data-name="Path 14771" d="M5,14H2" fill="none" stroke="#18d755" stroke-linecap="round" stroke-width="1.5"/>
+      <path id="Path_14772" data-name="Path 14772" d="M14.5,3.5,17,2" fill="none" stroke="#18d755" stroke-linecap="round" stroke-width="1.5"/>
+      <path id="Path_14773" data-name="Path 14773" d="M9.5,3.5,7,2" fill="none" stroke="#18d755" stroke-linecap="round" stroke-width="1.5"/>
+      <path id="Path_14774" data-name="Path 14774" d="M20.5,20l-2-.8" fill="none" stroke="#18d755" stroke-linecap="round" stroke-width="1.5"/>
+      <path id="Path_14775" data-name="Path 14775" d="M20.5,8l-2,.8" fill="none" stroke="#18d755" stroke-linecap="round" stroke-width="1.5"/>
+      <path id="Path_14776" data-name="Path 14776" d="M3.5,20l2-.8" fill="none" stroke="#18d755" stroke-linecap="round" stroke-width="1.5"/>
+      <path id="Path_14777" data-name="Path 14777" d="M3.5,8l2,.8" fill="none" stroke="#18d755" stroke-linecap="round" stroke-width="1.5"/>
+      <path id="Path_14778" data-name="Path 14778" d="M12,21.5V15" fill="none" stroke="#18d755" stroke-linecap="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

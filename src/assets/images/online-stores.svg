@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="98" height="99" viewBox="0 0 98 99">
+  <g id="Group_5463" data-name="Group 5463" transform="translate(-0.354 0.036)">
+    <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="49" cy="49.5" rx="49" ry="49.5" transform="translate(0.354 -0.036)" fill="#fff"/>
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="38.5" cy="38.5" r="38.5" transform="translate(10.354 10.964)" fill="#ba68c1"/>
+    <g id="store-svgrepo-com" transform="translate(34.419 34.426)">
+      <path id="Path_14592" data-name="Path 14592" d="M37.217,27.176V43.3a1.841,1.841,0,0,1-1.891,1.79H13.891A1.841,1.841,0,0,1,12,43.3V27.17" transform="translate(-9.72 -15.337)" fill="none" stroke="#fff" stroke-width="2"/>
+      <path id="Path_14593" data-name="Path 14593" d="M26.26,49.211V38.45h7.3V49.211" transform="translate(-14.991 -19.506)" fill="none" stroke="#fff" stroke-width="2"/>
+      <path id="Path_14594" data-name="Path 14594" d="M8.419,15.2s-.693,4.892,4.066,5.636a4.52,4.52,0,0,0,3.846-1.261,4.684,4.684,0,0,0,6.941-.076,4.665,4.665,0,0,0,3.152,1.57,7.452,7.452,0,0,0,3.719-1.355,4.2,4.2,0,0,0,2.944,1.355,5.043,5.043,0,0,0,5-5.863L35.111,8.81a.63.63,0,0,0-.593-.41H11.924a.63.63,0,0,0-.593.416Z" transform="translate(-8.384 -8.4)" fill="none" stroke="#fff" stroke-width="2"/>
+      <line id="Line_1" data-name="Line 1" x2="29.693" transform="translate(0.035 6.796)" fill="none" stroke="#fff" stroke-width="2"/>
+      <line id="Line_2" data-name="Line 2" y1="6.796" transform="translate(7.979 0)" fill="none" stroke="#fff" stroke-width="2"/>
+      <line id="Line_3" data-name="Line 3" y1="6.796" transform="translate(14.92 0)" fill="none" stroke="#fff" stroke-width="2"/>
+      <line id="Line_4" data-name="Line 4" y1="6.796" transform="translate(21.829 0)" fill="none" stroke="#fff" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

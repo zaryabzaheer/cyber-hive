@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="68" height="68" viewBox="0 0 68 68">
+  <g id="Group_5444" data-name="Group 5444" transform="translate(-1811 -9677)">
+    <g id="Rectangle_2455" data-name="Rectangle 2455" transform="translate(1811 9677)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="68" height="68" rx="10" stroke="none"/>
+      <rect x="0.5" y="0.5" width="67" height="67" rx="9.5" fill="none"/>
+    </g>
+    <g id="Icon_akar-home-alt1" data-name="Icon akar-home-alt1" transform="translate(1826.8 9693.18)">
+      <path id="Path_14782" data-name="Path 14782" d="M31.5,28.5V18.4a6,6,0,0,0-1.868-4.35L20.067,4.965a3,3,0,0,0-4.132,0L6.367,14.05A6,6,0,0,0,4.5,18.4V28.5a3,3,0,0,0,3,3h21A3,3,0,0,0,31.5,28.5Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_14783" data-name="Path 14783" d="M13.5,22.5a3,3,0,0,1,3-3h3a3,3,0,0,1,3,3v9h-9Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
