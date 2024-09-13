@@ -46,7 +46,6 @@ function BasicExample() {
                             </ul>
                         </Navbar.Collapse>
                         <div className="header-social-area d-flex align-items-center">
-                            <button className="btn-transparent">SHALL WE CALL YOU BACK?</button>
                             <a href="tel:123456789" className="phone-lottie">
                                 <Lottie
                                     className="phone-lottie-img"

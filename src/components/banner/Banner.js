@@ -25,8 +25,8 @@ const Banner = () => {
                                     options={defaultOptions}
                                 />
                             </div>
-                            <span className="d-block reliable-content position-relative">Reliable</span>
-                            <strong className="d-block position-relative">protection for your</strong>
+                            <span className="d-block reliable-content position-relative">Comfortable</span>
+                            <strong className="d-block position-relative">Protected</strong>
                             <h1 className="position-relative">Website</h1>
                             <p className="position-relative">We guarantee protection from 99% of external threats.</p>
                             <p className="position-relative banner-p">Pentest, protection against DDoS attacks, site hacking and data

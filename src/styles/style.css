@@ -42,7 +42,7 @@
   height: 8px;
 }
 ::-webkit-scrollbar-thumb {
-  background: #18D755;
+  background: #345381;
 }
 * {
   padding: 0;
@@ -110,18 +110,18 @@ p {
 .btn-transparent {
   padding: 0 15px;
   background-color: transparent;
-  color: #18D755;
-  border: 1px solid #18D755;
+  color: #345381;
+  border: 1px solid #345381;
   transition: all ease-in-out 0.6s;
 }
 .btn-transparent:hover {
-  background-color: #18D755;
+  background-color: #345381;
   color: white;
 }
 .btn-white {
   padding: 0 25px;
   background-color: white;
-  color: #18D755;
+  color: #345381;
   border: 1px solid white;
   transition: all ease-in-out 0.6s;
 }
@@ -131,7 +131,7 @@ p {
 }
 .btn-filled {
   padding: 0 30px;
-  background-color: #18D755;
+  background-color: #345381;
   color: white;
   border: none;
   position: relative;
@@ -295,7 +295,7 @@ span::before, span::after{
 }
 .banner-content .reliable-content, .banner-content strong {
   font-size: 80px;
-  color: #18D755;
+  color: #345381;
   font-family: 'Swiss 911';
   line-height: 80px;
   opacity: 0;
@@ -510,7 +510,7 @@ span::before, span::after{
   margin-bottom: 50px;
 }
 .what-we-do-heading h2 span {
-  color: #18D755;
+  color: #345381;
 }
 .what-we-do-accordion {
   background-color: #000a10;
@@ -638,7 +638,7 @@ span::before, span::after{
   color: white;
 }
 .website-protection-heading span {
-  color: #18D755;
+  color: #345381;
   font-size: 250px;
   font-family: 'Swiss 911';
   line-height: 230px;
@@ -697,7 +697,7 @@ span::before, span::after{
 }
 .customer-reviews-heading span {
   font-size: 250px;
-  color: #18D755;
+  color: #345381;
   font-family: 'Swiss 911';
   opacity: 50%;
   line-height: 230px;
@@ -776,19 +776,19 @@ span::before, span::after{
 }
 .unprotected-website-form-area {
   border-radius: 8px;
-  background-color: #073415;
+  background-color: #345381;
   padding: 40px 45px;
 }
 .unprotected-website-form-area-heading-content, .unprotected-website-form-area p {
   margin-bottom: 70px;
 }
 .unprotected-website-form-area h3:not(:last-child) {
-  color: #18D755;
+  color: #fff;
   max-width: 424px;
   line-height: 71px;
 }
 .unprotected-website-form-area .count-text {
-  color: #1D5830;
+  color: #000;
 }
 .unprotected-website-form-area .count-text span {
   color: white;
@@ -830,7 +830,7 @@ span::before, span::after{
 }
 .ten-examples-heading h2 {
   margin-bottom: 35px;
-  color: #18D755;
+  color: #345381;
 }
 .ten-examples-heading h2, .ten-examples-heading h3 {
   line-height: 71px;
@@ -861,10 +861,10 @@ span::before, span::after{
   isolation: unset;
 }
 .ten-examples .nav-tabs .nav-link.active {
-  color: #18D755;
+  color: #345381;
   background-color: transparent;
   border: none;
-  border-bottom: 1px solid #18D755;
+  border-bottom: 1px solid #345381;
 }
 .ten-examples .tabs-slider-item-content {
   max-width: 1230px;
@@ -893,15 +893,15 @@ span::before, span::after{
   font-size: 176px;
   line-height: 150px;
   font-family: 'Swiss 911';
-  color: #18D755;
+  color: #345381;
   margin-bottom: 30px;
   display: block;
 }
 /* free consultation */
 .free-consultation {
   padding: 65px;
-  background-color: #1EB54F;
-  border-bottom: 10px solid #15863A;
+  background-color: #345381;
+  border-bottom: 10px solid #345381;
 }
 .free-consultation-img {
   position: relative;
@@ -969,7 +969,6 @@ span::before, span::after{
 }
 /* footer */
 .footer {
-  background-color: #063B18;
   padding: 65px 0 25px;
   margin-top: -35px;
 }
@@ -1894,7 +1893,7 @@ h3 {
   margin-right: 40px;
 }
 .header .header-bars-icon {
-  color: #18d755;
+  color: #345381;
 }
 .header .header-list-wrapper {
   position: absolute;
@@ -1905,7 +1904,7 @@ h3 {
 }
 .header-list {
   width: 100%;
-  background-color: #18d755;
+  background-color: #345381;
   border-radius: 3px;
   padding: 5px 20px;
 }

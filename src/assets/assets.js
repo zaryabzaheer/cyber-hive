@@ -1,6 +1,6 @@
 import layerImage from '../assets/images/layer.svg'
 import logo from '../assets/images/logo.png'
-import bannerCol from '../assets/images/banner-col-img.png'
+import bannerCol from '../assets/images/banner-col-img.jpg'
 import greenCircle from '../assets/images/customer-green-circle.svg'
 import whiteCircle  from '../assets/images/customer-white-circle.svg'
 import manufuctruringCompanies from '../assets/images/manufacturing-companies.svg'
